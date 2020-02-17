@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/crwn-ecommerce/static/css/main.545a5e28.chunk.css",
+    "main.js": "/crwn-ecommerce/static/js/main.bd88c30b.chunk.js",
+    "main.js.map": "/crwn-ecommerce/static/js/main.bd88c30b.chunk.js.map",
+    "runtime-main.js": "/crwn-ecommerce/static/js/runtime-main.1facb0f7.js",
+    "runtime-main.js.map": "/crwn-ecommerce/static/js/runtime-main.1facb0f7.js.map",
+    "static/js/2.c2b5a27f.chunk.js": "/crwn-ecommerce/static/js/2.c2b5a27f.chunk.js",
+    "static/js/2.c2b5a27f.chunk.js.map": "/crwn-ecommerce/static/js/2.c2b5a27f.chunk.js.map",
+    "index.html": "/crwn-ecommerce/index.html",
+    "precache-manifest.fa087a3b23f2d7079aa7e3510575902f.js": "/crwn-ecommerce/precache-manifest.fa087a3b23f2d7079aa7e3510575902f.js",
+    "service-worker.js": "/crwn-ecommerce/service-worker.js",
+    "static/css/main.545a5e28.chunk.css.map": "/crwn-ecommerce/static/css/main.545a5e28.chunk.css.map",
+    "static/js/2.c2b5a27f.chunk.js.LICENSE.txt": "/crwn-ecommerce/static/js/2.c2b5a27f.chunk.js.LICENSE.txt",
+    "static/media/crown.ed28accb.svg": "/crwn-ecommerce/static/media/crown.ed28accb.svg",
+    "static/media/shopping-bag.30f07071.svg": "/crwn-ecommerce/static/media/shopping-bag.30f07071.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1facb0f7.js",
+    "static/js/2.c2b5a27f.chunk.js",
+    "static/css/main.545a5e28.chunk.css",
+    "static/js/main.bd88c30b.chunk.js"
+  ]
+}
